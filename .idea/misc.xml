@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/15/app/src/main/res/drawable/bg_receiver.xml" value="0.331" />
         <entry key="..\:/15/app/src/main/res/drawable/bg_sender.xml" value="0.331" />
+        <entry key="..\:/15/app/src/main/res/layout/activity_dashboard.xml" value="0.36666666666666664" />
+        <entry key="..\:/15/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/15/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/15/app/src/main/res/layout/fragment_chat_list.xml" value="0.36666666666666664" />
         <entry key="..\:/15/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
         <entry key="..\:/15/app/src/main/res/layout/row_card_user.xml" value="0.36666666666666664" />
         <entry key="..\:/15/app/src/main/res/layout/row_chat_left.xml" value="0.5" />

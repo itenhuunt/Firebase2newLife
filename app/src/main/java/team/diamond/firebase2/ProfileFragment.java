@@ -235,12 +235,12 @@ public class ProfileFragment extends Fragment {
     private void showEditProfileDialog() {
         /*show dialog containing options
          * 1)edit profile
-         * 2) edit cover picter
+         * 2) edit cover picture
          * 3) edit name
          * 4) edit phone*/
 
         //  option show dialog
-        String options[] = {"Edit Profile Pictere", "Edit Cover Photo", "Edit name", "edit phone"};
+        String options[] = {"Edit Profile Picture", "Edit Cover Photo", "Edit name", "edit phone"};
         //alert dialog
         AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
         //set title
@@ -499,7 +499,7 @@ public class ProfileFragment extends Fragment {
 
     }
 
-    private void pickFromGallery() {
+    private void pickFromCamera() {
         //Intent of picking image from device camera
         ContentValues values = new ContentValues();
         values.put(MediaStore.Images.Media.TITLE, "Temp Pic");
@@ -513,7 +513,7 @@ public class ProfileFragment extends Fragment {
         startActivityForResult(cameraIntent, IMAGE_PICK_CAMERA_CODE);
     }
 
-    private void pickFromCamera() {
+    private void pickFromGallery() {
         //pick from gallery
         Intent galleryIntent = new Intent(Intent.ACTION_PICK);
         galleryIntent.setType("image/*");
