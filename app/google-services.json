@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "3126347979",
+    "firebase_url": "https://fir-190ab-default-rtdb.firebaseio.com",
+    "project_id": "fir-190ab",
+    "storage_bucket": "fir-190ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3126347979:android:f56aa89f3f6bfdbf63734e",
+        "android_client_info": {
+          "package_name": "team.diamond.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3126347979-9n9n5lh21v9jh7uc4vbdfub9j2mbgqme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team.diamond.firebase",
+            "certificate_hash": "cadc93461bdc0a30c08ad023f3e144e452b9197f"
+          }
+        },
+        {
+          "client_id": "3126347979-5gbg8khgk7ai6gjjurbvrakv8l55h14m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYJU02llnGzYabHxujWtaQraf8MUceRBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3126347979-5gbg8khgk7ai6gjjurbvrakv8l55h14m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3126347979:android:f85fa483a2e85bb163734e",
+        "android_client_info": {
+          "package_name": "team.diamond.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3126347979-5gbg8khgk7ai6gjjurbvrakv8l55h14m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYJU02llnGzYabHxujWtaQraf8MUceRBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3126347979-5gbg8khgk7ai6gjjurbvrakv8l55h14m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
